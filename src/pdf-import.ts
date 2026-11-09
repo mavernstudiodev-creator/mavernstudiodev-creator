@@ -3,10 +3,11 @@ import pdfWorker from 'pdfjs-dist/build/pdf.worker.min.mjs?url';
 import {createWorker} from 'tesseract.js';
 import {parseTimetableText} from './timetable-parser';
 pdfjs.GlobalWorkerOptions.workerSrc=pdfWorker;
-function pageLines(content: Awaited<ReturnType<Awaited<ReturnType<typeof pdfjs.getDocument>['promise']['then']>['getTextContent']>>) {
+function pageLines(content: {items: unknown[]}) {
  const rows:{y:number;items:{x:number;text:string}[]}[]=[];
- for(const item of content.items){
-  if(!('str'in item)||!item.str.trim())continue;
+ for(const raw of content.items){
+  const item=raw as {str?:string;transform?:number[]};
+  if(typeof item.str!=='string'||!item.str.trim()||!item.transform)continue;
   const y=item.transform[5],x=item.transform[4];
   let row=rows.find(candidate=>Math.abs(candidate.y-y)<3);
   if(!row){row={y,items:[]};rows.push(row)}

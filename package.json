@@ -24,4 +24,4 @@
     "@types/react-dom": "latest",
     "vitest": "^4.0.8"
   }
-}\n
+}
