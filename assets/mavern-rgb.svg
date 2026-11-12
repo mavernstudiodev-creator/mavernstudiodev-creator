@@ -1,17 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" role="img" aria-labelledby="t d">
-<title id="t">Mavern Studio RGB wordmark</title><desc id="d">Mavern Studio wordmark with animated red green blue spectral glow.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-labelledby="t d">
+<title id="t">Mavern Studio wordmark</title>
+<desc id="d">Bold italic black Mavern lettering with playful offset layers of pink, yellow, blue and green.</desc>
 <defs>
- <linearGradient id="rgb" x1="0" y1="0" x2="1" y2="0">
-  <stop offset="0" stop-color="#ff315b"><animate attributeName="stop-color" values="#ff315b;#ffb52e;#35f58b;#32b8ff;#a66bff;#ff315b" dur="8s" repeatCount="indefinite"/></stop>
-  <stop offset=".5" stop-color="#43f4c0"><animate attributeName="stop-color" values="#43f4c0;#42a5ff;#ce69ff;#ff4c94;#43f4c0" dur="8s" repeatCount="indefinite"/></stop>
-  <stop offset="1" stop-color="#8e67ff"><animate attributeName="stop-color" values="#8e67ff;#ff3c78;#ffb52e;#35f58b;#32b8ff;#8e67ff" dur="8s" repeatCount="indefinite"/></stop>
- </linearGradient>
- <filter id="glow" x="-30%" y="-80%" width="160%" height="260%"><feGaussianBlur stdDeviation="8" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <filter id="soft" x="-20%" y="-30%" width="140%" height="180%"><feGaussianBlur stdDeviation="7"/></filter>
 </defs>
-<rect width="1000" height="260" rx="18" fill="#080709"/>
-<path d="M75 52H925M75 208H925" stroke="#ffffff" stroke-opacity=".13"/>
-<text x="500" y="151" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="104" letter-spacing="5" fill="url(#rgb)" filter="url(#glow)">MAVERN</text>
-<text x="500" y="185" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" letter-spacing="13" fill="#F2E9ED">S T U D I O</text>
-<circle cx="92" cy="130" r="4" fill="#ff315b"><animate attributeName="opacity" values=".2;1;.2" dur="1.8s" repeatCount="indefinite"/></circle>
-<circle cx="908" cy="130" r="4" fill="#32b8ff"><animate attributeName="opacity" values="1;.2;1" dur="2.2s" repeatCount="indefinite"/></circle>
+<rect width="1000" height="300" rx="24" fill="#F0EFF1"/>
+<g font-family="'Brush Script MT','Segoe Script','URW Chancery L',Georgia,serif" font-size="174" font-style="italic" font-weight="bold" text-anchor="middle" letter-spacing="-8">
+ <text x="500" y="205" fill="#62D85B" opacity=".82" filter="url(#soft)" transform="translate(0 23)">Mavern</text>
+ <text x="500" y="205" fill="#62D85B" transform="translate(0 18)">Mavern</text>
+ <text x="500" y="205" fill="#75C8F4" transform="translate(0 12)">Mavern</text>
+ <text x="500" y="205" fill="#F5C36D" transform="translate(0 7)">Mavern</text>
+ <text x="500" y="205" fill="#F28CB5" transform="translate(0 2)">Mavern</text>
+ <text x="500" y="205" fill="#080709">Mavern</text>
+</g>
+<text x="814" y="78" font-family="Georgia,serif" font-size="24" fill="#171518">®</text>
+<text x="500" y="260" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="17" letter-spacing="9" fill="#6E6870">S T U D I O</text>
 </svg>
