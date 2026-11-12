@@ -1,8 +1,8 @@
-<!-- RAJ TIVARI × MAVERN STUDIO | Light editorial identity -->
+<!-- RAJ TIVARI × MAVERN STUDIO | Editorial portfolio -->
 
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Raj Tivari — Mavern Studio" />
+<img src="./assets/hero.svg?v=5" width="100%" alt="Raj Tivari — Mavern Studio" />
 
 <br/>
 
@@ -27,18 +27,44 @@ Turning rough ideas into useful digital experiences — one project, one iterati
 
 </div>
 
-<img align="right" src="./assets/monogram.svg" width="116" alt="RT monogram" />
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- **Currently focused on** — JavaScript, React, UI engineering and practical projects
-- **Building toward** — stronger full-stack fundamentals and thoughtful product experiences
-- **Creative identity** — Mavern Studio
-- **Working philosophy** — Build · Test · Learn · Improve
+**01 / CURRENT FOCUS**
 
-<br clear="right"/>
+JavaScript, React, interface design and building practical projects.
+
+</td>
+<td width="50%" valign="top">
+
+**02 / NEXT CHAPTER**
+
+Stronger full-stack fundamentals, clean architecture and thoughtful products.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**03 / CREATIVE IDENTITY**
+
+Mavern Studio — digital experiences built with purpose.
+
+</td>
+<td width="50%" valign="top">
+
+**04 / WORKING PHILOSOPHY**
+
+Build → Test → Learn → Improve.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## WHAT I WORK WITH
+## THE TOOLKIT
 
 <div align="center">
 
@@ -54,7 +80,7 @@ Turning rough ideas into useful digital experiences — one project, one iterati
 
 <img src="https://skillicons.dev/icons?i=firebase,python,c&theme=light" alt="Firebase Python C" />
 
-<sub>These are tools I use or am actively learning — not a claim of expert-level proficiency.</sub>
+<sub>Technologies I use or am actively learning — not a claim of expert-level proficiency.</sub>
 
 </div>
 
@@ -66,20 +92,24 @@ Turning rough ideas into useful digital experiences — one project, one iterati
 <tr>
 <td width="50%" valign="top">
 
-### [Attendance.io ↗](https://github.com/mavernstudiodev-creator/attendence.io)
+### ◇ Attendance.io
+
+**[Open repository ↗](https://github.com/mavernstudiodev-creator/attendence.io)**
 
 A student-focused attendance tracker designed to make subject-wise attendance and timetable planning easier.
 
-<sub>VITE · JAVASCRIPT · FRONTEND</sub>
+VITE · JAVASCRIPT · FRONTEND
 
 </td>
 <td width="50%" valign="top">
 
-### [Alpha Dev · Hackathon 01 ↗](https://github.com/mavernstudiodev-creator/alpha-dev-hackathon-01)
+### ◇ Alpha Dev · Hackathon 01
+
+**[Open repository ↗](https://github.com/mavernstudiodev-creator/alpha-dev-hackathon-01)**
 
 A collaborative workspace for planning, building and shipping with the Alpha Dev team.
 
-<sub>TEAM PROJECT · GITHUB · COLLABORATION</sub>
+TEAM PROJECT · GITHUB · COLLABORATION
 
 </td>
 </tr>
@@ -93,34 +123,46 @@ A collaborative workspace for planning, building and shipping with the Alpha Dev
 
 ---
 
-## GITHUB, WITHOUT THE BROKEN GRAPHS
+## GITHUB ACTIVITY
 
-<div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
 
-<a href="https://github.com/mavernstudiodev-creator?tab=repositories">
-  <img src="https://img.shields.io/badge/OPEN_SOURCE-REPOSITORIES-29252A?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Explore repositories" />
-</a>
-<a href="https://github.com/mavernstudiodev-creator?tab=followers">
-  <img src="https://img.shields.io/badge/CONNECT-FOLLOW-DB789B?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Follow on GitHub" />
-</a>
+**REPOSITORIES**
 
-<br/>
+Explore projects, experiments and things I'm building.
 
-<sub>Explore the repositories for the latest projects, code and progress. No third-party contribution graphs or stats cards that can randomly disappear.</sub>
+[Browse repositories ↗](https://github.com/mavernstudiodev-creator?tab=repositories)
 
-</div>
+</td>
+<td align="center" width="50%">
+
+**OPEN SOURCE**
+
+Follow along as I learn, contribute and ship.
+
+[Follow on GitHub ↗](https://github.com/mavernstudiodev-creator?tab=followers)
+
+</td>
+</tr>
+</table>
+
+<sub>I've removed third-party graph widgets that were failing to load. These direct GitHub links remain reliable.</sub>
 
 ---
 
 <div align="center">
 
-<img src="./assets/mavern-rgb.svg" width="100%" alt="Mavern wordmark with layered colour shadows" />
+<img src="./assets/mavern-rgb.svg?v=5" width="100%" alt="Mavern script wordmark with layered colour shadows" />
 
 ### Digital experiences, built with purpose.
 
 **Raj Tivari** · Bengaluru, India
 
 [GitHub](https://github.com/mavernstudiodev-creator) · [Repositories](https://github.com/mavernstudiodev-creator?tab=repositories)
+
+<img src="./assets/mavern-pet.svg?v=1" width="100%" alt="A little animated cat companion walking along a path" />
 
 <sub>AN INDEPENDENT CREATIVE TECHNOLOGY IDENTITY · MAVERN STUDIO</sub>
 
