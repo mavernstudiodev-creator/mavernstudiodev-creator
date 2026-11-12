@@ -1,18 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-labelledby="t d">
-<title id="t">Mavern Studio wordmark</title>
-<desc id="d">Bold italic black Mavern lettering with playful offset layers of pink, yellow, blue and green.</desc>
+<title id="t">Mavern Studio script wordmark</title>
+<desc id="d">Flowing bold black Mavern script with layered pink, yellow, blue and green shadows, inspired by the Mavern Studio identity.</desc>
 <defs>
- <filter id="soft" x="-20%" y="-30%" width="140%" height="180%"><feGaussianBlur stdDeviation="7"/></filter>
+ <filter id="glow" x="-20%" y="-35%" width="140%" height="190%"><feGaussianBlur stdDeviation="8"/></filter>
 </defs>
 <rect width="1000" height="300" rx="24" fill="#F0EFF1"/>
-<g font-family="'Brush Script MT','Segoe Script','URW Chancery L',Georgia,serif" font-size="174" font-style="italic" font-weight="bold" text-anchor="middle" letter-spacing="-8">
- <text x="500" y="205" fill="#62D85B" opacity=".82" filter="url(#soft)" transform="translate(0 23)">Mavern</text>
- <text x="500" y="205" fill="#62D85B" transform="translate(0 18)">Mavern</text>
- <text x="500" y="205" fill="#75C8F4" transform="translate(0 12)">Mavern</text>
- <text x="500" y="205" fill="#F5C36D" transform="translate(0 7)">Mavern</text>
- <text x="500" y="205" fill="#F28CB5" transform="translate(0 2)">Mavern</text>
- <text x="500" y="205" fill="#080709">Mavern</text>
+<g font-family="cursive" font-size="190" font-style="italic" font-weight="bold" text-anchor="middle" letter-spacing="-7">
+ <text x="500" y="204" fill="#69D95D" opacity=".78" filter="url(#glow)" transform="translate(0 24)">Mavern</text>
+ <text x="500" y="204" fill="#69D95D" transform="translate(0 19)">Mavern</text>
+ <text x="500" y="204" fill="#78C9F2" transform="translate(0 13)">Mavern</text>
+ <text x="500" y="204" fill="#F7C66F" transform="translate(0 8)">Mavern</text>
+ <text x="500" y="204" fill="#F28CB5" transform="translate(0 3)">Mavern</text>
+ <text x="500" y="204" fill="#080709">Mavern</text>
 </g>
-<text x="814" y="78" font-family="Georgia,serif" font-size="24" fill="#171518">®</text>
-<text x="500" y="260" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="17" letter-spacing="9" fill="#6E6870">S T U D I O</text>
+<text x="842" y="74" font-family="Georgia,serif" font-size="25" fill="#171518">®</text>
+<text x="500" y="263" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="17" letter-spacing="10" fill="#6E6870">S T U D I O</text>
 </svg>
