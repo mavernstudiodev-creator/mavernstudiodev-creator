@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+<title id="title">Raj Tivari — Mavern Studio</title><desc id="desc">Animated obsidian and emerald futuristic developer brand banner.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#030706"/><stop offset=".52" stop-color="#0b1b13"/><stop offset="1" stop-color="#102b1d"/></linearGradient>
+ <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#39ff88" stop-opacity="0"/><stop offset=".5" stop-color="#39ff88"/><stop offset="1" stop-color="#39ff88" stop-opacity="0"/></linearGradient>
+ <radialGradient id="orb"><stop stop-color="#39ff88" stop-opacity=".26"/><stop offset="1" stop-color="#39ff88" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse"><path d="M38 0H0V38" fill="none" stroke="#6dffad" stroke-opacity=".10" stroke-width="1"/></pattern>
+ <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="420" rx="26" fill="url(#bg)"/>
+<rect width="1200" height="420" rx="26" fill="url(#grid)"/>
+<circle cx="930" cy="205" r="310" fill="url(#orb)"/>
+<g fill="none" stroke="#39ff88" stroke-opacity=".22"><path d="M730 0L1200 330M810 0L1200 270M900 0L1200 210"/><circle cx="950" cy="205" r="145"/><circle cx="950" cy="205" r="188" stroke-dasharray="3 12"/></g>
+<g fill="#39ff88" opacity=".75"><circle cx="760" cy="85" r="2"><animate attributeName="opacity" values=".15;1;.15" dur="2.8s" repeatCount="indefinite"/></circle><circle cx="1090" cy="115" r="2"><animate attributeName="opacity" values="1;.15;1" dur="3.4s" repeatCount="indefinite"/></circle><circle cx="1015" cy="335" r="2"><animate attributeName="opacity" values=".2;1;.2" dur="2.1s" repeatCount="indefinite"/></circle></g>
+<path d="M0 340H1200" stroke="url(#edge)" stroke-width="2"/>
+<path d="M0 0H1200V420H0Z" fill="none" stroke="#39ff88" stroke-opacity=".28" stroke-width="2"/>
+<g font-family="Arial,Helvetica,sans-serif">
+ <text x="78" y="84" fill="#39ff88" font-size="15" letter-spacing="6">MAVERN STUDIO / PERSONAL SYSTEM</text>
+ <text x="72" y="210" fill="#f1fff6" font-size="88" font-weight="800" letter-spacing="-4">RAJ TIVARI<tspan fill="#39ff88">.</tspan></text>
+ <text x="80" y="263" fill="#c2d9ca" font-size="22" letter-spacing="5">BUILD BEYOND LIMITS.</text>
+ <text x="80" y="325" fill="#72a98a" font-size="13" letter-spacing="3">DEVELOPER  ·  CREATIVE TECHNOLOGIST  ·  CSE</text>
+ <text x="1110" y="385" text-anchor="end" fill="#39ff88" font-size="12" letter-spacing="3">MT / 001</text>
+</g>
+<rect x="0" y="0" width="1200" height="4" fill="#39ff88" opacity=".8"><animate attributeName="y" values="0;416;0" dur="7s" repeatCount="indefinite"/></rect>
+</svg>
