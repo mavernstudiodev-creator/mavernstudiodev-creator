@@ -1,4 +1,4 @@
-<!-- RAJ TIVARI × MAVERN STUDIO | Obsidian / Emerald profile -->
+<!-- RAJ TIVARI × MAVERN STUDIO | Editorial / Raspberry identity -->
 
 <div align="center">
 
@@ -7,12 +7,12 @@
 <br/>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2200&pause=650&color=39FF88&center=true&vCenter=true&repeat=true&width=760&height=48&lines=Computer+Science+Engineering+Student;Frontend+Developer+in+Progress;Building+useful+things+with+code;Learning+by+shipping+real+projects;Mavern+Studio+%E2%80%94+Ideas+into+Experiences" alt="Animated role and mission text" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=18&duration=2200&pause=650&color=F04B83&center=true&vCenter=true&repeat=true&width=760&height=48&lines=Computer+Science+Engineering+Student;Frontend+Developer+in+Progress;Building+useful+things+with+code;Learning+by+shipping+real+projects;Mavern+Studio+%E2%80%94+Ideas+into+Experiences" alt="Animated role and mission text" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=mavernstudiodev-creator&style=for-the-badge&color=123B27&label=PROFILE+VISITS" alt="Profile visits" />
+<img src="https://komarev.com/ghpvc/?username=mavernstudiodev-creator&style=for-the-badge&color=542033&label=PROFILE+VISITS" alt="Profile visits" />
 <img src="https://img.shields.io/github/followers/mavernstudiodev-creator?style=for-the-badge&logo=github&label=FOLLOWERS&color=123B27" alt="GitHub followers" />
 
 </div>
@@ -96,38 +96,40 @@ A collaborative hackathon workspace for planning, building, and shipping with th
 <div align="center">
 
 <a href="https://github.com/mavernstudiodev-creator">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mavernstudiodev-creator&show_icons=true&hide_border=true&bg_color=050807&title_color=39FF88&icon_color=39FF88&text_color=E6F4EC&ring_color=39FF88&include_all_commits=true" alt="GitHub account statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mavernstudiodev-creator&show_icons=true&hide_border=true&bg_color=050807&title_color=F04B83&icon_color=F04B83&text_color=F2E9ED&ring_color=F04B83&include_all_commits=true" alt="GitHub account statistics" />
 </a>
 <a href="https://github.com/mavernstudiodev-creator">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mavernstudiodev-creator&layout=compact&hide_border=true&bg_color=050807&title_color=39FF88&text_color=E6F4EC" alt="Most used languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mavernstudiodev-creator&layout=compact&hide_border=true&bg_color=050807&title_color=F04B83&text_color=F2E9ED" alt="Most used languages" />
 </a>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=mavernstudiodev-creator&hide_border=true&background=050807&ring=39FF88&fire=39FF88&currStreakLabel=39FF88&sideLabels=C2D9CA&dates=789987&currStreakNum=FFFFFF&sideNums=FFFFFF" width="78%" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=mavernstudiodev-creator&hide_border=true&background=090809&ring=F04B83&fire=FF9DBB&currStreakLabel=F04B83&sideLabels=E7D8DE&dates=C7AEB8&currStreakNum=FFFFFF&sideNums=FFFFFF" width="78%" alt="GitHub contribution streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mavernstudiodev-creator&bg_color=050807&color=E6F4EC&line=39FF88&point=FFFFFF&area=true&area_color=123B27&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mavernstudiodev-creator&bg_color=090809&color=F2E9ED&line=F04B83&point=FFFFFF&area=true&area_color=542033&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
 
 </div>
 
 ---
 
-## ◈ CONNECT / TRANSMIT
+## ◈ MAVERN STUDIO / SIGNATURE
 
 <div align="center">
 
+<img src="./assets/mavern-rgb.svg" width="100%" alt="Mavern Studio animated RGB wordmark" />
+
+<br/>
+
+**Ideas, shaped with intent. Experiences, built to last.**
+
 <a href="https://github.com/mavernstudiodev-creator">
-  <img src="https://img.shields.io/badge/GITHUB-VISIT%20PROFILE-101914?style=for-the-badge&logo=github&logoColor=39FF88" alt="GitHub profile" />
+  <img src="https://img.shields.io/badge/RAJ%20TIVARI-GITHUB-542033?style=for-the-badge&logo=github&logoColor=F04B83" alt="Raj Tivari GitHub" />
 </a>
 
 <br/><br/>
 
-**Have an idea worth building? Let's make it real.**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF88,45:123B27,100:050807&height=130&section=footer&animation=twinkling" width="100%" alt="Emerald animated footer" />
-
-<sub>RAJ TIVARI × MAVERN STUDIO · BUILD BEYOND LIMITS</sub>
+<sub>AN INDEPENDENT CREATIVE TECHNOLOGY IDENTITY · MAVERN STUDIO</sub>
 
 </div>
